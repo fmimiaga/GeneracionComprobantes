@@ -1,0 +1,7 @@
+GENERACIÓN DE COMPROBANTE
+Número de pedido: PE-DD02
+
+Iniciando generación del comprobante.
+Preparando los datos del pedido.
+Generando el comprobante.
+Comprobante generado correctamente.
